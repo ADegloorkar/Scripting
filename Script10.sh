@@ -1,4 +1,5 @@
 #!/bin/bash
+
 #This script is to check if and else
 a=10
 b=20
@@ -8,4 +9,9 @@ echo "a is greater than b"
 else
 echo "a is smaller than b"
 fi
+
+
+echo "This is from Linux "
+
+
 
